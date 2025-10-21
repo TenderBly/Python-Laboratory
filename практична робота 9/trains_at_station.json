@@ -1,0 +1,98 @@
+[
+    {
+        "number": "101",
+        "route": "Київ – Харків",
+        "arrival": {
+            "hour": 7,
+            "minute": 30
+        },
+        "departure": {
+            "hour": 7,
+            "minute": 45
+        }
+    },
+    {
+        "number": "102",
+        "route": "Харків – Львів",
+        "arrival": {
+            "hour": 8,
+            "minute": 10
+        },
+        "departure": {
+            "hour": 8,
+            "minute": 25
+        }
+    },
+    {
+        "number": "104",
+        "route": "Дніпро – Львів",
+        "arrival": {
+            "hour": 10,
+            "minute": 0
+        },
+        "departure": {
+            "hour": 10,
+            "minute": 15
+        }
+    },
+    {
+        "number": "105",
+        "route": "Полтава – Харків",
+        "arrival": {
+            "hour": 11,
+            "minute": 30
+        },
+        "departure": {
+            "hour": 11,
+            "minute": 50
+        }
+    },
+    {
+        "number": "107",
+        "route": "Харків – Одеса",
+        "arrival": {
+            "hour": 13,
+            "minute": 45
+        },
+        "departure": {
+            "hour": 14,
+            "minute": 5
+        }
+    },
+    {
+        "number": "108",
+        "route": "Львів – Київ",
+        "arrival": {
+            "hour": 15,
+            "minute": 0
+        },
+        "departure": {
+            "hour": 15,
+            "minute": 20
+        }
+    },
+    {
+        "number": "109",
+        "route": "Одеса – Дніпро",
+        "arrival": {
+            "hour": 16,
+            "minute": 15
+        },
+        "departure": {
+            "hour": 16,
+            "minute": 35
+        }
+    },
+    {
+        "number": "110",
+        "route": "Харків – Полтава",
+        "arrival": {
+            "hour": 18,
+            "minute": 10
+        },
+        "departure": {
+            "hour": 18,
+            "minute": 30
+        }
+    }
+]
